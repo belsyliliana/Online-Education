@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;400&display=swap');
+
+#menu {
+	background-color: #ff6b00;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #ffffff;
+	height: 40px;
+	border: solid 1px black;
+
+
+}
+#menu li{
+	/*border: solid 1px black;*/
+	margin-right: 1%;
+	list-style: none;
+}
+#menu li a{
+	color: #fff;
+	padding-left: 15px;
+}
+
+
+
+
+#letra {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #fff;
+	font-size: 1em;
+	
+}
+
+#compo {
+	background-color: #565656;
+	width: 2px;
+	height: 60px;
+	margin-left: 9px;
+
+}
+
+#titulo {
+	color: #ff6b00;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 0,5em;
+
+}
+#titulo1 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 2em;
+
+}
+
+#encabezado {
+	height: 100px;
+	margin-left: 400px;
+}
+
+#belsy {
+	margin-top: 10px;
+}
+
+#cabeza {
+
+	
+}
+
+#b {
+    
+    height:  140px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+    margin-top: -23px;
+    margin: 0,7em;
+
+}
+#e {
+   
+   
+
+
+}
+#l {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 15px;
+    margin-top: -30px;
+
+
+}
+
+#sel {
+   
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 100%;
+    margin-top: -20px;
+    
+
+
+}
+
+#letramenu {
+
+	color: #fff;
+}
+
